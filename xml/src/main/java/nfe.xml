@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Produtos>
+    <produto>
+        <codigo>10009</codigo>
+        <nome>Leite Desnatado</nome>
+        <estoque>100</estoque>
+    </produto>
+    <produto>
+        <codigo>10010</codigo>
+        <nome>Farinha de Trigo</nome>
+        <estoque>360</estoque>
+    </produto>
+    <produto>
+        <codigo>10011</codigo>
+        <nome>Manteiga</nome>
+        <estoque>540</estoque>
+    </produto>
+    <produto>
+        <codigo>10012</codigo>
+        <nome>Azeite de Oliva</nome>
+        <estoque>309</estoque>
+    </produto>
+</Produtos>
